@@ -11,3 +11,4 @@ Backend (Spring Boot API): Modular services for catalog, pricing, cart, and orde
 Data & Infrastructure: PostgreSQL for persistence, AWS S3 for image storage, optional Redis for caching, and logging/observability hooks for future scalability.
 
 This architecture highlights separation of concerns (frontend vs. backend vs. infra), while keeping things small enough to finish as a personal project. It’s designed to be clear to hiring managers and flexible enough to expand into real deployments.
+![DevMart Architecture](./devmart-architecture.png)
